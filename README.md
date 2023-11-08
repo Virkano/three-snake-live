@@ -5,7 +5,7 @@
 
 [预览入口（Github）](https://www.virkano.com/three-snake-live)
 
-![Screenshot 2023-09-15 alle 23 54 57](https://www.github.com/virkano/three-snake-live/main/src/assets/images/banner.png)
+![Screenshot 2023-09-15 alle 23 54 57](https://raw.githubusercontent.com/Virkano/three-snake-live/main/src/assets/images/banner.png)
 
 ## 💡 查看示例
 
